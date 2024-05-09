@@ -1,3 +1,9 @@
+## Introduction
+
+Name: **Andy Allard**
+
+A favourite inspirational quote: *"The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff." - Carl Sagan*
+
 ## 📝 ENSF 692 - Assignment 1 Tasks
 * Open VSCode and start a new terminal. 
 * Edit this `README` file to add your first and last name, and your favourite inspirational quote.
@@ -19,8 +25,3 @@
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
 
-## Introduction
-
-Name: **Andy Allard**
-
-A favourite inspirational quote: *"The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff." - Carl Sagan*
